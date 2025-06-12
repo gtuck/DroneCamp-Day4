@@ -157,21 +157,12 @@ h1 {
 
 ---
 
-# Wrap-Up & Reflection  
-🕗 11:40 – 11:55 a.m.
+# Wrap-Up & Reflection & Preview of Day 5 (Competition Day)
+🕗 11:40 – 12:00 p.m.
 
 Teams discuss:
 - Which missions are strongest?  
 - Which missions need more work?  
-- Plan coding vs. piloted strategy for tomorrow  
-- Team practice goals for Day 5  
-
-
----
-
-# Preview of Day 5 - Competition Day  
-🕗 11:55 – 12:00 p.m.
-
 - What to expect  
-- Team roles reminders  
-- Final tips  
+- Plan coding vs. piloted strategy for tomorrow  
+- Team goals for Competition Day  
