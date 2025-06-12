@@ -44,7 +44,7 @@ h1 {
 
 ---
 
-# Welcome & Warm-Up  
+# Welcome 
 🕗 8:00 – 8:10 a.m.
 
 - Drone Inventory
@@ -110,7 +110,6 @@ h1 {
 ---
 
 # Safety & Pre-Flight Reminders  
-🕗 9:50 – 10:00 a.m.
 
 - Quick review of pre-flight checklist  
 - Each **practice round = 10 min**  
@@ -157,7 +156,8 @@ h1 {
 
 ---
 
-# Wrap-Up & Reflection & Preview of Day 5 (Competition Day)
+# Wrap-Up & Reflection  
+# Preview of Day 5: Competition Day
 🕗 11:40 – 12:00 p.m.
 
 Teams discuss:
