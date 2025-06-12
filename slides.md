@@ -36,7 +36,7 @@ h1 {
 
 *Thursday, 8 AM–12 PM*
 
-## Practice make perfect!
+## Practice makes perfect!
 
 ### Facilitators:
 
